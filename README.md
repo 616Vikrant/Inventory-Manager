@@ -1,1 +1,1 @@
-# Medical-Store-Management-
+# Inventory manager
